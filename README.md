@@ -1,0 +1,20 @@
+# Музыка для мода Hytale / Music for Hytale mod
+
+## 🇷🇺 Русский Гайд (Видео)
+[Скоро]
+
+## 🇺🇸 English Guide (Video)
+[]
+
+## 🎵 Список мелодий / Song List
+* [Hard Drive.mid)] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/Hard%20Drive.mid
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
+* [Hard Drive.mid)] MIDI URL:
