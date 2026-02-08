@@ -18,8 +18,8 @@
 * [ASGORE.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/ASGORE.mid
 * [ASGORE - Undertale.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/ASGORE%20-%20Undertale.mid
 * [It's Been So Long.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/The%20Living%20Tombstone%20-%20It's%20Been%20So%20Long%20(FNaF%202%20Song).mid
-* [Hard Drive.mid] MIDI URL:
-* [Hard Drive.mid] MIDI URL:
+* [It’s TV Time.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/DELTARUNE%20-%20It%E2%80%99s%20TV%20Time!.mid
+* [Black Knife.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/DELTARUNE%20-%20Black%20Knife.mid
 * [Hard Drive.mid] MIDI URL:
 * [Hard Drive.mid] MIDI URL:
 * [Hard Drive.mid] MIDI URL:
