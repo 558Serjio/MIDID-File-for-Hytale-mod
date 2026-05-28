@@ -21,7 +21,7 @@
 * [It’s TV Time.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/DELTARUNE%20-%20It%E2%80%99s%20TV%20Time!.mid
 * [Black Knife.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/DELTARUNE%20-%20Black%20Knife.mid
 * [Build Our Machine.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/Build%20Our%20Machine%20(Bendy%20and%20the%20Ink%20Machine%20Song).mid.mid
-* [Hard Drive.mid] MIDI URL:
+* [Tears for Fears - Everybody Wants to Rule the World.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/Tears%20for%20Fears%20-%20Everybody%20Wants%20to%20Rule%20the%20World.mid
 * [Hard Drive.mid] MIDI URL:
 * [Hard Drive.mid] MIDI URL:
 * [Hard Drive.mid] MIDI URL:
