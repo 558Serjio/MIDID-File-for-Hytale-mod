@@ -22,7 +22,7 @@
 * [Black Knife.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/DELTARUNE%20-%20Black%20Knife.mid
 * [Build Our Machine.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/Build%20Our%20Machine%20(Bendy%20and%20the%20Ink%20Machine%20Song).mid.mid
 * [Tears for Fears - Everybody Wants to Rule the World.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/Tears%20for%20Fears%20-%20Everybody%20Wants%20to%20Rule%20the%20World.mid
-* [Hard Drive.mid] MIDI URL:
+* [C418 - Haggstrom (ibi).mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/C418%20-%20Haggstrom%20(ibi).mid.mid
 * [Hard Drive.mid] MIDI URL:
 * [Hard Drive.mid] MIDI URL:
 * [Hard Drive.mid] MIDI URL:
